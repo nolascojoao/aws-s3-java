@@ -15,6 +15,7 @@ public class ListBuckets {
 				.region(region)
 				.build();
 		listAllBuckets(s3);
+		s3.close();
 	}
 	
 	public static void listAllBuckets(S3Client s3) {
