@@ -14,4 +14,4 @@ Example code for CRUD (Create, Read, Update, Delete) operations with S3 using AW
 
 #### References
 
-[AWS S3 SDK For Java 2.x](https://github.com/awsdocs/aws-doc-sdk-examples/tree/f807d60010caf3d14fe4cd0801b842fb8e9511ca/javav2/example_code/s3)
+- [AWS S3 SDK For Java 2.x](https://github.com/awsdocs/aws-doc-sdk-examples/tree/f807d60010caf3d14fe4cd0801b842fb8e9511ca/javav2/example_code/s3)
