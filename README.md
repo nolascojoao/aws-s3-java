@@ -1,8 +1,8 @@
-## AWS S3 Java - Example Code for CRUD Operations with S3 and Java
+## AWS S3 Java 
 
-Example code for CRUD (Create, Read, Update, Delete) operations with S3 and AWS SDK for Java 2x.
+Example code for CRUD (Create, Read, Update, Delete) operations with S3 using AWS SDK for Java 2x.
 
-### Classes
+#### Classes
 
 - [CreateBucket](https://github.com/nolascojoao/aws-s3-java/blob/main/s3/src/main/java/com/example/CreateBucket.java)
 - [DeleteBucket](https://github.com/nolascojoao/aws-s3-java/blob/main/s3/src/main/java/com/example/DeleteBucket.java)
@@ -12,8 +12,6 @@ Example code for CRUD (Create, Read, Update, Delete) operations with S3 and AWS 
 - [ListObjects](https://github.com/nolascojoao/aws-s3-java/blob/main/s3/src/main/java/com/example/ListObjects.java)
 - [PutObject](https://github.com/nolascojoao/aws-s3-java/blob/main/s3/src/main/java/com/example/PutObject.java)
 
-### References
+#### References
 
-For complete example classes related to S3 
-
-[AWS SDK S3 Full Examples](https://github.com/awsdocs/aws-doc-sdk-examples/tree/f807d60010caf3d14fe4cd0801b842fb8e9511ca/javav2/example_code/s3)
+[AWS S3 SDK For Java 2.x](https://github.com/awsdocs/aws-doc-sdk-examples/tree/f807d60010caf3d14fe4cd0801b842fb8e9511ca/javav2/example_code/s3)
